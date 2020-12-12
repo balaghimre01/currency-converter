@@ -1,0 +1,13 @@
+header {
+    color: white;
+    background-color: teal;
+    padding: 15px;
+}
+header > nav > a {
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+}
+a:hover {
+    background-color: #01675F;
+}
